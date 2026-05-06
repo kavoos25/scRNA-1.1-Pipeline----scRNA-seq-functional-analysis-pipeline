@@ -1,0 +1,116 @@
+Single-cell RNA-seq Functional Analysis Report
+======================================================================
+
+Cluster 0
+--------------------------------------------------
+Suggested identity: T-cell / Lymphocyte
+
+Top GO terms:
+  • T cell activation (GO:0042110)
+  • positive regulation of T cell activation (GO:0050870)
+  • antigen receptor-mediated signaling pathway (GO:0050851)
+  • T cell receptor signaling pathway (GO:0050852)
+  • cellular response to cytokine stimulus (GO:0071345)
+
+Top pathways:
+  • Eukaryotic Translation Elongation R-HSA-156842
+  • Peptide Chain Elongation R-HSA-156902
+  • Viral mRNA Translation R-HSA-192823
+  • Eukaryotic Translation Termination R-HSA-72764
+  • Selenocysteine Synthesis R-HSA-2408557
+
+
+Cluster 1
+--------------------------------------------------
+Suggested identity: Unknown
+
+Top GO terms:
+  • MHC class II protein complex (GO:0042613)
+  • MHC protein complex (GO:0042611)
+  • antigen receptor-mediated signaling pathway (GO:0050851)
+  • MHC class II receptor activity (GO:0032395)
+  • lumenal side of endoplasmic reticulum membrane (GO:0098553)
+
+Top pathways:
+  • Eukaryotic Translation Elongation R-HSA-156842
+  • Peptide Chain Elongation R-HSA-156902
+  • Viral mRNA Translation R-HSA-192823
+  • Selenocysteine Synthesis R-HSA-2408557
+  • Eukaryotic Translation Termination R-HSA-72764
+
+
+Cluster 2
+--------------------------------------------------
+Suggested identity: Inflammatory
+
+Top GO terms:
+  • neutrophil degranulation (GO:0043312)
+  • neutrophil mediated immunity (GO:0002446)
+  • neutrophil activation involved in immune response (GO:0002283)
+  • secretory granule lumen (GO:0034774)
+  • tertiary granule (GO:0070820)
+
+Top pathways:
+  • Immune System R-HSA-168256
+  • Neutrophil Degranulation R-HSA-6798695
+  • Innate Immune System R-HSA-168249
+  • MHC Class II Antigen Presentation R-HSA-2132295
+  • Cytokine Signaling In Immune System R-HSA-1280215
+
+
+Cluster 3
+--------------------------------------------------
+Suggested identity: T-cell / Lymphocyte
+
+Top GO terms:
+  • regulation of immune response (GO:0050776)
+  • T cell receptor complex (GO:0042101)
+  • lymphocyte migration (GO:0072676)
+  • MHC protein binding (GO:0042287)
+  • cytolytic granule (GO:0044194)
+
+Top pathways:
+  • Immunoregulatory Interactions Between A Lymphoid And A non-Lymphoid Cell R-HSA-198933
+  • Immune System R-HSA-168256
+  • Natural killer cell mediated cytotoxicity
+  • Adaptive Immune System R-HSA-1280218
+  • Antigen processing and presentation
+
+
+Cluster 4
+--------------------------------------------------
+Suggested identity: T-cell / Lymphocyte
+
+Top GO terms:
+  • neutrophil activation involved in immune response (GO:0002283)
+  • neutrophil mediated immunity (GO:0002446)
+  • neutrophil degranulation (GO:0043312)
+  • regulation of immune response (GO:0050776)
+  • negative regulation of lymphocyte proliferation (GO:0050672)
+
+Top pathways:
+  • Immune System R-HSA-168256
+  • Neutrophil Degranulation R-HSA-6798695
+  • Innate Immune System R-HSA-168249
+  • FCGR3A-mediated Phagocytosis R-HSA-9664422
+  • Leishmania Infection R-HSA-9658195
+
+
+Cluster 5
+--------------------------------------------------
+Suggested identity: Unknown
+
+Top GO terms:
+  • MHC class II protein complex (GO:0042613)
+  • antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886)
+  • antigen processing and presentation of peptide antigen via MHC class II (GO:0002495)
+  • antigen processing and presentation of exogenous peptide antigen (GO:0002478)
+  • MHC protein complex (GO:0042611)
+
+Top pathways:
+  • Immune System R-HSA-168256
+  • Asthma
+  • Viral myocarditis
+  • MHC Class II Antigen Presentation R-HSA-2132295
+  • Hematopoietic cell lineage
+

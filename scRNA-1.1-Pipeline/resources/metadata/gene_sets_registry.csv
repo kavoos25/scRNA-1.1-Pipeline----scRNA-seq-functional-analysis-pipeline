@@ -1,0 +1,5 @@
+name,path,category,source,organism,n_terms,created_at
+GO_Biological_Process_2021,K:\@scRNA-1.1-PBMC3K\resources\go\GO_Biological_Process_2021_fixed.gmt,GO_BP,Enrichr,human,6036,2026-05-05
+GO_Molecular_Function_2021,K:\@scRNA-1.1-PBMC3K\resources\go\GO_Molecular_Function_2021_fixed.gmt,GO_MF,Enrichr,human,1274,2026-05-05
+GO_Cellular_Component_2021,K:\@scRNA-1.1-PBMC3K\resources\go\GO_Cellular_Component_2021_fixed.gmt,GO_CC,Enrichr,human,511,2026-05-05
+KEGG_2021_Human,K:\@scRNA-1.1-PBMC3K\resources\kegg\KEGG_2021_Human_fixed.gmt,KEGG,Enrichr,human,320,2026-05-05
